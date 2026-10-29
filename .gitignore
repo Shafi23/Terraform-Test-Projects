@@ -27,3 +27,4 @@ terraform.rc
 
 # AWS credentials
 .aws/
+aws/
